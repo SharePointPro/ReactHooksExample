@@ -7,6 +7,7 @@ const GlobalState = props => {
   const [starwarsItemState, dispatch] = useReducer(starwarsItemsReducer, []);
 
   async function fetchAllItems(searchStr) {
+    
     dispatch({    
       type: FETCHING_ITEMS
     });
