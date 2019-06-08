@@ -1,5 +1,5 @@
 This project is an example of using React Hooks and global state to replace Redux.
-It uses a higger order component at the top level to replace the redux store.
+It uses a higher order component at the top level to replace the redux store.
 
 This project is an React Hooks & Create React App implementation of React Redux project https://github.com/robertbg/swapi-react
 
