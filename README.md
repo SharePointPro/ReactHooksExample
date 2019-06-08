@@ -17,3 +17,5 @@ Technologies used:
 * Create-React-Apps
 * React Hooks
 * SCSS
+
+Recommended Resource: https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
