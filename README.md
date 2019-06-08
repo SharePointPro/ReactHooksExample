@@ -8,3 +8,10 @@ While it maybe a good alternative to Redux, react hooks was not designed to repl
 However for infrequent changes (ie not on keypress's) react hooks can help minimize your project size.
 
 Demo implementation can be found here: https://vibrant-khorana-2c9a5a.netlify.com/
+
+Technologies used:
+
+* React
+* Create-React-Apps
+* React Hooks
+* SCSS
